@@ -26,7 +26,7 @@ Instant visibility into key financial metrics:
 - Total Transactions
 - Average Transaction Value
 
-### Monthly Spending Trend
+### Monthly Spending Trend 
 A **Bar + Line combination chart** to identify spending patterns throughout the year.
 
 ### Category-wise Spending Distribution
